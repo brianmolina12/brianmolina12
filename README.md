@@ -23,7 +23,6 @@ Git · Docker · Jupyter · Linux
 
 ## 🔭 Proyectos actuales
 
-- 🛰 **Tesis**: detección de riesgo ambiental y agua subterránea con drones/satélites + modelos de visión por computadora
 - 📰 **Editorial Gaucho Estudio**: automatización de gestión de contenido con n8n y Python
 - 🔧 **Armería Mosky Gun**: optimización de flujos operativos con APIs y Python
 
